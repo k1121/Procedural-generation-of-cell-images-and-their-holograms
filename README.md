@@ -25,6 +25,10 @@ The code relies on the following Python libraries:
 
 Make sure all dependencies are installed before running the notebook.
 
+## Example of dataset
+An example of a generated dataset can be found at the link below.
+https://disk.yandex.ru/d/vUPx_kvW8vpykg
+
 ## License
 
 This project is intended for **academic and research use**. Please cite appropriately if used in scientific work.
